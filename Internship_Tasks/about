@@ -1,7 +1,6 @@
 # 📊 Data Science Internship Journal & Project Log
 
 ### **Company:** Take it smart (OPC) Pvt Ltd.
-
 ### **Intern:** Mohammad Afnan Allaudin Kumbari (2KD22CS054)
 
 ---
@@ -19,20 +18,26 @@ This repository is a live documentation of my professional journey as a Data Sci
 ### **Log 01: Foundations & The Project Life Cycle**
 
 * **The Big Picture:** Explored the overlap between Data Science, AI, and Machine Learning.
+
 * **Strategy:** Mastered the **11-step Data Science Project Life Cycle**, moving from Business Understanding to Deployment.
+
 * **Analytics:** Learned to categorize business problems using Descriptive, Diagnostic, Predictive, and Prescriptive frameworks.
+
 
 ### **Log 02: Logic Building & Task Automation**
 
 * **Python Power:** Implemented complex decision-making tools using Arithmetic, Logical, and Comparison operators.
 * **Automation:** Developed scripts to automate HR shortlisting and E-commerce discount logic using `if-elif-else` structures and `for` loops.
+
 * **Validation:** Built status checkers for API responses and user account security.
 
 ### **Log 03: Structural Programming (OOP) & Security**
 
 * **Architecture:** Shifted from functional scripts to **Object-Oriented Programming (OOP)**.
+
 * **Modeling:** Created blueprints for real-world entities like `BankAccount`, `Student`, and `Employee`.
 * **Encapsulation:** Specialized in data protection by using **Private Members (`__`)** to secure sensitive information like balances and PINs.
+
 
 ---
 
@@ -57,11 +62,13 @@ I am maintaining a growing collection of Python tasks, including:
 
 ## 🚀 The Roadmap Ahead
 
-* [ ] Exploratory Data Analysis (EDA) on real-world datasets.
-* [ ] Statistical Modeling & Hypothesis Testing.
-* [ ] Developing and deploying Machine Learning models.
-* [ ] Natural Language Processing (NLP) foundations.
+- [ ] Exploratory Data Analysis (EDA) on real-world datasets.
+- [ ] Statistical Modeling & Hypothesis Testing.
+- [ ] Developing and deploying Machine Learning models.
+- [ ] Natural Language Processing (NLP) foundations.
 
 ---
 
 *I will continue to update this log daily with new tasks and technical breakthroughs.*
+
+```
