@@ -84,6 +84,12 @@ When a business has a problem (BP), they use these four steps:
 10. Deployment
 11. Monitoring & Maintenance
 
+
+<img width="1536" height="1024" alt="ChatGPT Image Feb 19, 2026, 05_56_08 PM" src="https://github.com/user-attachments/assets/2a8c6941-6d9b-45b4-b59d-fe9ee7d2325e" />
+
+
+
+
 ------------------------------------------------------------------------
 
 ## 5️⃣ Data Science Applications
